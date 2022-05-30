@@ -1,4 +1,5 @@
 package com.company;
 
-public class player {
+public class player extends playerMovement  {
+
 }
