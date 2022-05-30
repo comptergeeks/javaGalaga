@@ -1,5 +1,6 @@
 package com.company;
 import javax.swing.JFrame;
 
-public class myFrame {
+public class myFrame extends JFrame {
+
 }
